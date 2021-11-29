@@ -1,0 +1,26 @@
+div{
+	position: absolute;
+	width: 100px;
+	border: 2px solid purple;
+	background-color: cyan;
+}
+
+.d1{
+	left: 30px;
+}
+
+#d1{
+	left: 150px;
+}
+
+.d2{
+	left: 270px;
+}
+
+#d2{
+	left: 390px;
+}
+
+.d3{
+	left: 510px;
+}
